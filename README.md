@@ -134,12 +134,12 @@ class Arsonolace:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arsonolace&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsonolace&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsonolace&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsonolace&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsonolace&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsonolace&amp;theme=tokyonight&amp;hide_border=true" />
 </div>
 
 ---
@@ -182,9 +182,9 @@ graph TD
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arsonolace&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Arsonolace&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile Views" />
 </div>
