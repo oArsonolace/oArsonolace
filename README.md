@@ -8,8 +8,6 @@
 
 ---
 
-## 🚀 About Me
-
 ```python
 class Arsonolace:
     def __init__(self):
@@ -36,9 +34,11 @@ class Arsonolace:
 
 ---
 
-## 🛠️ Technical Skills
+<div align="center">
 
 ### 💻 Programming Languages
+
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -61,7 +61,11 @@ class Arsonolace:
 
 </div>
 
+<div align="center">
+
 ### 🤖 AI/ML Technologies
+
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -69,11 +73,12 @@ class Arsonolace:
   <img src="https://img.shields.io/badge/AI%20Training-00D4FF?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
-🧠 **Machine Learning Fundamentals**  
-🎯 **Reinforcement Learning** (Currently Learning)  
-🚀 **AI Model Training & Usage**
+
+<div align="center">
 
 ### 🔍 Reverse Engineering & Security Tools
+
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Cheat%20Engine-FF6B6B?style=for-the-badge&logo=security&logoColor=white" />
@@ -123,10 +128,6 @@ class Arsonolace:
   <img src="https://img.shields.io/badge/Security-FF5722?style=for-the-badge&logo=security&logoColor=white" />
 </div>
 
-🔬 **Technology Exploration**: Always curious about emerging technologies  
-💰 **Finance & Market Analysis**: Understanding economic systems and trends  
-🧬 **Biology & Sciences**: Fascinated by natural systems and processes  
-🔒 **Security Research**: Passionate about software and hardware security
 
 ---
 
